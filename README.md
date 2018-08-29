@@ -1,2 +1,0 @@
-# ACM-templet
-ACM templet
